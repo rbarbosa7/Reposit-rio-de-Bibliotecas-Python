@@ -1,0 +1,16 @@
+######## Bibliotecas Python ########
+
+pip install pyautogui --upgrade
+pip install selenium --upgrade
+pip install webdriver-manager --upgrade
+pip install pandas --upgrade
+pip install openpyxl --upgrade
+pip install pillow --upgrade
+pip install pyperclip --upgrade
+pip install keyboard --upgrade
+pip install requests --upgrade
+pip install beautifulsoup4 --upgrade
+pip install numpy --upgrade
+pip install flask --upgrade
+pip install flask-cors --upgrade
+pip qrcode --upgrade
