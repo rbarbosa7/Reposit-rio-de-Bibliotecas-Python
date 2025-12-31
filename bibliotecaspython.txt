@@ -14,3 +14,9 @@ pip install numpy --upgrade
 pip install flask --upgrade
 pip install flask-cors --upgrade
 pip qrcode --upgrade
+pip install matplotlib -- upgrade
+pip install Helium --upgrade
+pip install Scrapy --upgrade
+pip install LXML --upgrade
+pip install PyWinAuto --upgrade
+pip install MechanicalSoup --upgrade
